@@ -2,7 +2,7 @@
 
 > A reusable AI skill for Baltimore Homecoming's Crab Tank Entrepreneurs program.
 
-**Video walkthrough:** [ADD YOUR LINK HERE]
+**Video walkthrough:** [https://youtu.be/FCk2voUfn0A]
 
 ---
 
